@@ -1,2 +1,2 @@
 #!/bin/bashch
-chgrp school ./hello
+chgrp school  ./hello
